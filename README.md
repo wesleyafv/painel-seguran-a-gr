@@ -4,6 +4,8 @@ Conexão entre Engenharia de Dados e Segurança Patrimonial para detecção auto
 
 ## 🚀 Link do Projeto no Ar
 👉 [CLIQUE AQUI PARA ACESSAR O PAINEL INTERATIVO](https://painelsegurancagr.streamlit.app)
+<img width="1358" height="845" alt="image" src="https://github.com/user-attachments/assets/be6957d8-abc2-40e1-9fef-019691aba1d0" />
+
 
 ---
 
